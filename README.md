@@ -11,5 +11,5 @@
 - REST APIs
 
 ### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/payal-chauhan-0176a0b9/
 - Email: payal.chauhan3126@gmail.com
